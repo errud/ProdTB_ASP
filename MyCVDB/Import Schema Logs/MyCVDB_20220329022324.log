@@ -1,0 +1,87 @@
+29-03-22 16:23:24	This log contains information about the import schema operation into project 'MyCVDB' on computer '5210' by user 'Student'.
+29-03-22 16:23:25	Import of database schema has started.
+29-03-22 16:23:29	Gathering database credentials
+29-03-22 16:23:29	Gathering database options
+29-03-22 16:23:29	Gathering generic database scoped configuration option
+29-03-22 16:23:29	Gathering users
+29-03-22 16:23:29	Gathering roles
+29-03-22 16:23:29	Gathering application roles
+29-03-22 16:23:29	Gathering role memberships
+29-03-22 16:23:29	Gathering filegroups
+29-03-22 16:23:29	Gathering full-text catalogs
+29-03-22 16:23:29	Gathering assemblies
+29-03-22 16:23:29	Gathering certificates
+29-03-22 16:23:29	Gathering asymmetric keys
+29-03-22 16:23:29	Gathering symmetric keys
+29-03-22 16:23:29	Gathering encrypted symmetric keys
+29-03-22 16:23:29	Gathering schemas
+29-03-22 16:23:29	Gathering XML schema collections
+29-03-22 16:23:29	Gathering user-defined data types
+29-03-22 16:23:29	Gathering user-defined types
+29-03-22 16:23:29	Gathering table types
+29-03-22 16:23:29	Gathering unique keys for table types
+29-03-22 16:23:29	Gathering primary keys for table types
+29-03-22 16:23:29	Gathering indexes for table types
+29-03-22 16:23:29	Gathering check constraints for table types
+29-03-22 16:23:29	Gathering default constraints for table types
+29-03-22 16:23:29	Gathering partition functions
+29-03-22 16:23:29	Gathering partition schemes
+29-03-22 16:23:29	Gathering functions
+29-03-22 16:23:29	Gathering encrypted functions
+29-03-22 16:23:29	Gathering aggregates
+29-03-22 16:23:29	Gathering procedures
+29-03-22 16:23:29	Gathering encrypted procedures
+29-03-22 16:23:29	Gathering tables
+29-03-22 16:23:29	Gathering primary keys
+29-03-22 16:23:29	Gathering unique constraints
+29-03-22 16:23:29	Gathering foreign keys
+29-03-22 16:23:29	Gathering default constraints
+29-03-22 16:23:29	Gathering check constraints
+29-03-22 16:23:29	Gathering views
+29-03-22 16:23:29	Gathering encrypted views
+29-03-22 16:23:29	Gathering indexes
+29-03-22 16:23:29	Gathering statistics
+29-03-22 16:23:29	Gathering full-text index stoplists
+29-03-22 16:23:29	Gathering search property lists
+29-03-22 16:23:29	Gathering search properties
+29-03-22 16:23:29	Gathering full-text indexes
+29-03-22 16:23:29	Gathering column store indexes
+29-03-22 16:23:29	Gathering spatial indexes
+29-03-22 16:23:29	Gathering XML indexes
+29-03-22 16:23:29	Gathering Selective XML indexes
+29-03-22 16:23:29	Gathering encrypted triggers
+29-03-22 16:23:29	Gathering triggers
+29-03-22 16:23:29	Gathering encrypted and clr ddl triggers
+29-03-22 16:23:29	Gathering ddl triggers
+29-03-22 16:23:29	Creating edge constraints
+29-03-22 16:23:29	Gathering synonyms
+29-03-22 16:23:29	Gathering defaults
+29-03-22 16:23:29	Gathering data constraint uddt bindings
+29-03-22 16:23:29	Gathering rules
+29-03-22 16:23:29	Gathering data constraint uddt bindings
+29-03-22 16:23:29	Gathering message types
+29-03-22 16:23:29	Gathering queues
+29-03-22 16:23:29	Gathering contracts
+29-03-22 16:23:29	Gathering services
+29-03-22 16:23:29	Gathering event notifications
+29-03-22 16:23:29	Gathering remote service bindings
+29-03-22 16:23:29	Gathering broker priorities
+29-03-22 16:23:29	Gathering signatures
+29-03-22 16:23:29	Gathering data compression options
+29-03-22 16:23:29	Gathering sequence types
+29-03-22 16:23:29	Gathering security policies
+29-03-22 16:23:29	Gather column encryption keys
+29-03-22 16:23:29	Gathering column master keys
+29-03-22 16:23:29	Gathering external data sources
+29-03-22 16:23:29	Gathering external file formats
+29-03-22 16:23:29	Gathering external tables
+29-03-22 16:23:29	Gathering extended properties
+29-03-22 16:23:29	Gathering assemblies
+29-03-22 16:23:29	Gathering credentials
+29-03-22 16:23:29	Gathering logins
+29-03-22 16:23:29	Gathering server audits
+29-03-22 16:23:30	Scanning project for duplicate elements
+29-03-22 16:23:30	Finished duplicate element processing
+29-03-22 16:23:30	Finished importing database.
+29-03-22 16:23:30	A summary of the import was saved to the following location: C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\Import Schema Logs\MyCVDB_20220329022324.log
+29-03-22 16:23:30	Click Finish to continue...

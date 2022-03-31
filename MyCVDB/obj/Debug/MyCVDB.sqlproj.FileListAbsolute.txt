@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.dacpac
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.dll
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.pdb
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.sqlproj.AssemblyReference.cache
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.dll
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v2\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.pdb
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.dacpac
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.dll
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\bin\Debug\MyCVDB.pdb
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.sqlproj.AssemblyReference.cache
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\Model.xml
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\refactor.xml
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\postdeploy.sql
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\predeploy.sql
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.dll
+C:\Users\Student\Documents\2021XTraining\20220328ASPNetProd\20220328Prod\ASPNet6CV-v3\ASPNet6CV\MyCVDB\obj\Debug\MyCVDB.pdb
